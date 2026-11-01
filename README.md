@@ -28,9 +28,9 @@ The platform's code is private to Lint. Happy to give a walkthrough — just [re
 
 ### 🛠️ Projects that taught me the most
 
-- **[Rasāyana](https://github.com/VaibhavBansa1/rasayana)** · 🟢 live — a recipe app with accounts, dietary preferences and AI that adapts recipes to them, plus voice search and a demo food-ordering flow. React Native + Expo on the front, Django REST + LangChain behind. Where I learned mobile + AI-backed apps end to end.
+- **[Rasāyana](https://rasayana.expo.app/)** · 🟢 [live](https://rasayana.expo.app/) · [code](https://github.com/VaibhavBansa1/rasayana) — a recipe app with accounts, dietary preferences and AI that adapts recipes to them, plus voice search and a demo food-ordering flow. React Native + Expo on the front, Django REST + LangChain behind. Where I learned mobile + AI-backed apps end to end.
 - **Coding contest platform** · 🟡 launching soon — Lint's first product (see above). My deepest web project: queues, containers, permissions and real security work.
-- **[Shop accounting](https://github.com/VaibhavBansa1/shop_accounting)** · 🟡 launching soon — web + Expo mobile app, started for my father's shop. Lint's next product: a simple, modern, multi-device alternative to old desktop accounting software, built multi-tenant so any shop can use it securely.
+- **Shop accounting** · 🟡 launching soon · code private — web + Expo mobile app, started for my father's shop. Lint's next product: a simple, modern, multi-device alternative to old desktop accounting software, built multi-tenant so any shop can use it securely.
 
 ### 🔩 Also tinkering with
 
